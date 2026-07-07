@@ -1,0 +1,5599 @@
+{
+  "origem": "Calculadora de Prazos Processuais — Central de Portarias",
+  "exportadoEm": "2026-07-05T11:28:12.901Z",
+  "suspensoes": [
+    {
+      "iso": "2025-01-01",
+      "nome": "Confraternização Universal (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Alto Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-20",
+      "nome": "Memorial em Homenagem ao Monsenhor Ermínio Celso Duca",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Arenápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Dom Aquino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Itiquira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Nobres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-21",
+      "nome": "Aniversário do Município",
+      "comarca": "Poconé",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-01-25",
+      "nome": "Homenagem Póstuma ao Bispo Dom Camilo Faresin",
+      "comarca": "Guiratinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-02",
+      "nome": "Emancipação Política",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-02",
+      "nome": "Nossa Senhora dos Navegantes (Padroeira)",
+      "comarca": "Porto dos Gaúchos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Arenápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Nortelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-15",
+      "nome": "Aniversário do Município",
+      "comarca": "Canarana",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-22",
+      "nome": "Homenagem Póstuma ao Padre Nazareno Lanciotti",
+      "comarca": "Jauru",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-27",
+      "nome": "Falecimento do Padre Giacomo Gueva",
+      "comarca": "Mirassol D'Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-02-28",
+      "nome": "Em Memória do Fundador da Cidade",
+      "comarca": "Juara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-03",
+      "nome": "Carnaval (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-04",
+      "nome": "Carnaval (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-05",
+      "nome": "Cinzas — expediente a partir das 13h",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-19",
+      "nome": "São José (Padroeiro)",
+      "comarca": "Alto Taquari",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-19",
+      "nome": "São José (Padroeiro)",
+      "comarca": "Juara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-19",
+      "nome": "Aniversário do Município",
+      "comarca": "São José do Rio Claro",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-03-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-07",
+      "nome": "Aniversário do Município (ponto facultativo)",
+      "comarca": "Cuiabá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-08",
+      "nome": "Aniversário do Município",
+      "comarca": "Cuiabá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Dom Aquino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Xavantina",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-17",
+      "nome": "Paixão de Cristo (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-18",
+      "nome": "Paixão de Cristo (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Barra do Bugres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-19",
+      "nome": "Dia dos Povos Indígenas",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-21",
+      "nome": "Tiradentes (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-22",
+      "nome": "Pioneiro e Fundador do Município",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-04-29",
+      "nome": "Chegada da Imagem de Nossa Senhora do Pilar (Padroeira)",
+      "comarca": "Jauru",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-01",
+      "nome": "Dia do Trabalho (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-01",
+      "nome": "Aniversário do Município",
+      "comarca": "Nobres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-01",
+      "nome": "Dia de São José",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-02",
+      "nome": "Dia do Trabalho (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-03",
+      "nome": "Aniversário do Município",
+      "comarca": "Ribeirão Cascalheira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-05",
+      "nome": "Homenagem a Marechal Rondon",
+      "comarca": "Santo Antônio de Leverger",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-09",
+      "nome": "Aniversário do Município",
+      "comarca": "Juína",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-12",
+      "nome": "Falecimento do Padre George Joseph Pierre Marie Martin",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Alto Taquari",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Nossa Senhora do Rosário de Fátima (Padroeira)",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Comodoro",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Itaúba",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Nossa Senhora de Fátima (Padroeira)",
+      "comarca": "Lucas do Rio Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Marcelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Canaã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Novo São Joaquim",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Pedra Preta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Emancipação Político-Administrativa do Município",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Porto Esperidião",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Primavera do Leste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "São Félix do Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Nossa Senhora de Fátima (Padroeira)",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Sorriso",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Tangará da Serra",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Terra Nova do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Vera",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Vila Rica",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-14",
+      "nome": "Emancipação Política",
+      "comarca": "Mirassol D'Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-15",
+      "nome": "Aniversário do Município",
+      "comarca": "Várzea Grande",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Alta Floresta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-22",
+      "nome": "Aniversário do Município",
+      "comarca": "Rio Branco",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-23",
+      "nome": "Aniversário do Município",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-24",
+      "nome": "Nossa Senhora Auxiliadora (Padroeira)",
+      "comarca": "Alto Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-24",
+      "nome": "Nossa Senhora Auxiliadora (Padroeira)",
+      "comarca": "Canarana",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-05-29",
+      "nome": "Dia do Evangélico",
+      "comarca": "Cotriguaçu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-01",
+      "nome": "Aniversário do Município",
+      "comarca": "Brasnorte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-02",
+      "nome": "Aniversário do Município",
+      "comarca": "Guarantã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-13",
+      "nome": "Santo Antônio (Padroeiro)",
+      "comarca": "Barra do Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-13",
+      "nome": "Dia do Patrono do Município",
+      "comarca": "Nova Monte Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-13",
+      "nome": "Festa do Domingão",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Santo Antônio de Leverger",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-13",
+      "nome": "Santo Antônio (Padroeiro)",
+      "comarca": "Sinop",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-13",
+      "nome": "Santo Antônio (Padroeiro)",
+      "comarca": "Tabaporã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-14",
+      "nome": "Dia do Evangélico",
+      "comarca": "São Félix do Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-15",
+      "nome": "Aniversário do Município",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-19",
+      "nome": "Corpus Christi (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-20",
+      "nome": "Corpus Christi (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Colíder",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Guiratinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Poxoréu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Ribeirão Cascalheira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-25",
+      "nome": "Aniversário do Município",
+      "comarca": "Rosário Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-27",
+      "nome": "Sagrado Coração de Jesus (Padroeiro)",
+      "comarca": "Juína",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-27",
+      "nome": "Sagrado Coração de Jesus (Padroeiro)",
+      "comarca": "Nova Canaã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Feliz Natal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Itaúba",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "Aniversário do Município",
+      "comarca": "Paranaíta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "Dia da Fundação do Município",
+      "comarca": "Paranatinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "São Pedro Apóstolo (Padroeiro)",
+      "comarca": "Pedra Preta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Sorriso",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Vila Rica",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-03",
+      "nome": "Aniversário do Município",
+      "comarca": "Apiacás",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Campo Novo do Parecis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Campo Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Cláudia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Matupá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Mutum",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Tapurah",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-16",
+      "nome": "Nossa Senhora do Carmo (Padroeira)",
+      "comarca": "Itiquira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-21",
+      "nome": "Dia do Garimpeiro",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Campo Novo do Parecis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Campo Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-25",
+      "nome": "Dia do Colono e Motorista",
+      "comarca": "Canarana",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Matupá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Primavera do Leste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-25",
+      "nome": "Dia do Colono e Motorista",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-26",
+      "nome": "Nossa Senhora de Sant'ana (Padroeira)",
+      "comarca": "Chapada dos Guimarães",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-26",
+      "nome": "Nossa Senhora de Sant'Ana (Padroeira)",
+      "comarca": "Nortelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-26",
+      "nome": "São Joaquim e Sant'Ana (Padroeiros)",
+      "comarca": "Novo São Joaquim",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-27",
+      "nome": "Fundação do Município",
+      "comarca": "Vera",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-31",
+      "nome": "Aniversário do Município",
+      "comarca": "Chapada dos Guimarães",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-02",
+      "nome": "Aniversário do Município",
+      "comarca": "Guiratinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Lucas do Rio Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-06",
+      "nome": "Festa do Senhor Bom Jesus de Arenápolis",
+      "comarca": "Arenápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-06",
+      "nome": "Senhor Bom Jesus (Padroeiro)",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-06",
+      "nome": "Bom Jesus (Padroeiro)",
+      "comarca": "Juscimeira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-06",
+      "nome": "Aniversário do Município",
+      "comarca": "Pontes e Lacerda",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-08",
+      "nome": "Dia do Evangélico",
+      "comarca": "Ribeirão Cascalheira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-11",
+      "nome": "Dia do Advogado — art. 62, IV, Lei 5.010/1996 (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-15",
+      "nome": "Nossa Senhora da Glória (Padroeira)",
+      "comarca": "Cláudia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-15",
+      "nome": "Nossa Senhora da Assunção (Padroeira)",
+      "comarca": "São Félix do Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-16",
+      "nome": "São Roque (Padroeiro)",
+      "comarca": "Rio Branco",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Monte Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-25",
+      "nome": "São Luiz de Cáceres (Padroeiro)",
+      "comarca": "Cáceres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-08-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Rosário Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-07",
+      "nome": "Independência do Brasil (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-14",
+      "nome": "Santa Cruz (Padroeira)",
+      "comarca": "Barra do Bugres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Sinop",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-15",
+      "nome": "Aniversário do Município",
+      "comarca": "Barra do Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-18",
+      "nome": "Aniversário do Município",
+      "comarca": "Diamantino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Jauru",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Tabaporã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-24",
+      "nome": "Nossa Senhora da Libertação (Padroeira)",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-09-25",
+      "nome": "Dia do Evangélico",
+      "comarca": "Novo São Joaquim",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-04",
+      "nome": "São Francisco de Assis (Padroeiro)",
+      "comarca": "Aripuanã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-04",
+      "nome": "São Francisco de Assis (Padroeiro)",
+      "comarca": "Jaciara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-06",
+      "nome": "Aniversário do Município",
+      "comarca": "Cáceres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-07",
+      "nome": "Nossa Senhora do Rosário (Padroeira)",
+      "comarca": "Guarantã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-07",
+      "nome": "Nossa Senhora do Rosário (Padroeira)",
+      "comarca": "Poconé",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-07",
+      "nome": "Nossa Senhora do Rosário (Padroeira)",
+      "comarca": "Rosário Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-12",
+      "nome": "Nossa Senhora Aparecida (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Água Boa",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Nova Ubiratã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Terra Nova do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-21",
+      "nome": "Aniversário do Município",
+      "comarca": "Jaciara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-26",
+      "nome": "Aniversário do Município",
+      "comarca": "Alto Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-26",
+      "nome": "Aniversário do Município",
+      "comarca": "Poxoréu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-28",
+      "nome": "Dia do Servidor Público (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-28",
+      "nome": "Aniversário do Município",
+      "comarca": "Mirassol D'Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-28",
+      "nome": "São Judas Tadeu (Padroeiro)",
+      "comarca": "Vera",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Alto Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Aripuanã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Colniza",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia da Reforma Protestante",
+      "comarca": "Cotriguaçu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Marcelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Vila Rica",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-01",
+      "nome": "Fundação do Município",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-02",
+      "nome": "Dia de Finados (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-11",
+      "nome": "Aniversário do Município",
+      "comarca": "Porto dos Gaúchos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-15",
+      "nome": "Proclamação da República (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-17",
+      "nome": "Aniversário do Município",
+      "comarca": "Feliz Natal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-20",
+      "nome": "Dia da Consciência Negra (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-21",
+      "nome": "Dia da Consciência Negra (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-22",
+      "nome": "Santa Cecília (Padroeira)",
+      "comarca": "Apiacás",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-26",
+      "nome": "Aniversário do Município",
+      "comarca": "Colniza",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-27",
+      "nome": "Nossa Senhora das Graças (Padroeira)",
+      "comarca": "Nova Xavantina",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-30",
+      "nome": "Dia do Evangélico",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-11-30",
+      "nome": "Dia do Evangélico",
+      "comarca": "Rio Branco",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-01",
+      "nome": "Aniversário do Município",
+      "comarca": "Itiquira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-03",
+      "nome": "São Francisco Xavier (Padroeiro)",
+      "comarca": "Paranatinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Dia da Justiça — Decreto-Lei 8.292/1945 (feriado forense)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Imaculada Conceição (Padroeira)",
+      "comarca": "Cuiabá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Imaculada Conceição (Padroeira)",
+      "comarca": "Diamantino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Nossa Senhora da Conceição (Padroeira)",
+      "comarca": "Marcelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Nossa Senhora da Conceição",
+      "comarca": "Poconé",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Nossa Senhora Imaculada Conceição (Padroeira)",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-08",
+      "nome": "Imaculada Conceição (ponto facultativo municipal)",
+      "comarca": "Várzea Grande",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-10",
+      "nome": "Aniversário do Município",
+      "comarca": "Alto Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-10",
+      "nome": "Aniversário do Município",
+      "comarca": "Juscimeira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-10",
+      "nome": "Aniversário do Município",
+      "comarca": "Rondonópolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Juara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-14",
+      "nome": "Emancipação Política",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-17",
+      "nome": "Aniversário do Município",
+      "comarca": "Paranatinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-18",
+      "nome": "Aniversário do Município",
+      "comarca": "Colíder",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Ubiratã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Cotriguaçu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-24",
+      "nome": "Natal (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-25",
+      "nome": "Natal (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-31",
+      "nome": "Ano Novo (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-12-31",
+      "nome": "Aniversário do Município",
+      "comarca": "Aripuanã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1428/2024-PRES"
+    },
+    {
+      "iso": "2025-07-07",
+      "nome": "Aniversário do Município",
+      "comarca": "Água Boa",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "988/2025-PRES"
+    },
+    {
+      "iso": "2025-07-21",
+      "nome": "Dia da Dança do Congo — Decreto Municipal 26/2025 estende o feriado até às 12h do dia seguinte",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "988/2025-PRES"
+    },
+    {
+      "iso": "2025-07-22",
+      "nome": "Dia da Dança do Congo — após às 12h, ponto facultativo",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "988/2025-PRES"
+    },
+    {
+      "iso": "2025-10-27",
+      "nome": "Dia do Servidor Público (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1536/2025-PRES"
+    },
+    {
+      "iso": "2025-12-12",
+      "nome": "Dia dos Evangélicos",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1845/2025-PRES"
+    },
+    {
+      "iso": "2026-01-01",
+      "nome": "Confraternização Universal (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Alto Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-20",
+      "nome": "Memorial em Homenagem ao Monsenhor Ermínio Celso Duca",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Arenápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Dom Aquino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Itiquira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-20",
+      "nome": "São Sebastião (Padroeiro)",
+      "comarca": "Nobres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-21",
+      "nome": "Aniversário do Município",
+      "comarca": "Poconé",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-01-25",
+      "nome": "Homenagem Póstuma ao Bispo Dom Camilo Faresin",
+      "comarca": "Guiratinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-02",
+      "nome": "Emancipação Política",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-02",
+      "nome": "Nossa Senhora dos Navegantes (Padroeira)",
+      "comarca": "Porto dos Gaúchos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Arenápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Nortelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-15",
+      "nome": "Aniversário do Município",
+      "comarca": "Canarana",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-16",
+      "nome": "Carnaval (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-17",
+      "nome": "Carnaval (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-18",
+      "nome": "Cinzas — expediente a partir das 13h (Portaria 338/2023-PRES)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-22",
+      "nome": "Homenagem Póstuma ao Padre Nazareno Lanciotti",
+      "comarca": "Jauru",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-27",
+      "nome": "Falecimento do Padre Giacomo Gueva",
+      "comarca": "Mirassol D'Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-02-28",
+      "nome": "Em Memória ao Fundador da Cidade",
+      "comarca": "Juara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-03-19",
+      "nome": "São José (Padroeiro)",
+      "comarca": "Alto Taquari",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-03-19",
+      "nome": "São José (Padroeiro)",
+      "comarca": "Juara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-03-19",
+      "nome": "Emancipação Política do Município",
+      "comarca": "São José do Rio Claro",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-03-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-03-20",
+      "nome": "Ponto facultativo",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-02",
+      "nome": "Paixão de Cristo (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-03",
+      "nome": "Paixão de Cristo (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-08",
+      "nome": "Aniversário de Cuiabá",
+      "comarca": "Cuiabá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Dom Aquino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Xavantina",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Barra do Bugres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-19",
+      "nome": "Dia dos Povos Indígenas",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-20",
+      "nome": "Tiradentes (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-21",
+      "nome": "Tiradentes (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-22",
+      "nome": "Pioneiro e Fundador do Município",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-04-29",
+      "nome": "Chegada da Imagem de Nossa Senhora do Pilar (Padroeira)",
+      "comarca": "Jauru",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-01",
+      "nome": "Dia do Trabalho (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-01",
+      "nome": "Aniversário do Município",
+      "comarca": "Nobres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-01",
+      "nome": "São José (Padroeiro)",
+      "comarca": "São José do Rio Claro",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-03",
+      "nome": "Aniversário do Município",
+      "comarca": "Ribeirão Cascalheira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Juína",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-05",
+      "nome": "Homenagem a Marechal Rondon",
+      "comarca": "Santo Antônio de Leverger",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-12",
+      "nome": "Falecimento do Padre George Joseph Pierre Marie Martin",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Alto Taquari",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Nossa Senhora do Rosário de Fátima (Padroeira)",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Comodoro",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Itaúba",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Dia da Padroeira",
+      "comarca": "Lucas do Rio Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Emancipação Político-Administrativa",
+      "comarca": "Marcelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Canaã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Emancipação Política do Município",
+      "comarca": "Novo São Joaquim",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Pedra Preta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Emancipação Política e Administrativa",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Porto Esperidião",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Primavera do Leste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "São Félix do Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Padroeira do Município",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Sorriso",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Tangará da Serra",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Terra Nova do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Emancipação Política do Município",
+      "comarca": "Vera",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Vila Rica",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-14",
+      "nome": "Emancipação Política",
+      "comarca": "Mirassol D'Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-15",
+      "nome": "Aniversário do Município",
+      "comarca": "Várzea Grande",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Alta Floresta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-22",
+      "nome": "Aniversário do Município",
+      "comarca": "Rio Branco",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-23",
+      "nome": "Aniversário do Município",
+      "comarca": "Araputanga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-24",
+      "nome": "Nossa Senhora Auxiliadora (Padroeira)",
+      "comarca": "Alto Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-24",
+      "nome": "Nossa Senhora Auxiliadora (Padroeira)",
+      "comarca": "Canarana",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-05-29",
+      "nome": "Dia do Evangélico",
+      "comarca": "Cotriguaçu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-01",
+      "nome": "Aniversário do Município",
+      "comarca": "Brasnorte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-02",
+      "nome": "Aniversário do Município",
+      "comarca": "Guarantã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-04",
+      "nome": "Corpus Christi (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-05",
+      "nome": "Corpus Christi (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-12",
+      "nome": "Sagrado Coração de Jesus (Padroeiro)",
+      "comarca": "Juína",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-12",
+      "nome": "Sagrado Coração de Jesus (Padroeiro)",
+      "comarca": "Nova Canaã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-12",
+      "nome": "Dia do Evangélico",
+      "comarca": "São Félix do Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Santo Antônio (Padroeiro)",
+      "comarca": "Barra do Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Dia do Patrono do Município",
+      "comarca": "Nova Monte Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Festa do Domingão",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Aniversário do Município",
+      "comarca": "Santo Antônio de Leverger",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Santo Antônio (Padroeiro)",
+      "comarca": "Sinop",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Santo Antônio (Padroeiro)",
+      "comarca": "Tabaporã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-15",
+      "nome": "Aniversário do Município",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Colíder",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Guiratinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Poxoréu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-24",
+      "nome": "São João Batista (Padroeiro)",
+      "comarca": "Ribeirão Cascalheira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-25",
+      "nome": "Aniversário do Município",
+      "comarca": "Rosário Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Feliz Natal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Itaúba",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "Aniversário do Município",
+      "comarca": "Paranaíta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "Fundação do Município",
+      "comarca": "Paranatinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Pedra Preta",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Sorriso",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-29",
+      "nome": "São Pedro (Padroeiro)",
+      "comarca": "Vila Rica",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-03",
+      "nome": "Aniversário do Município",
+      "comarca": "Apiacás",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Campo Novo do Parecis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Campo Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Cláudia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-04",
+      "nome": "Emancipação Política do Município",
+      "comarca": "Matupá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Mutum",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-04",
+      "nome": "Aniversário do Município",
+      "comarca": "Tapurah",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-09",
+      "nome": "Aniversário do Município",
+      "comarca": "Água Boa",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-16",
+      "nome": "Nossa Senhora do Carmo (Padroeira)",
+      "comarca": "Itiquira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-20",
+      "nome": "Dia da Dança do Congo (Lei n. 896/2010) — institui a segunda-feira da segunda quinzena de julho como feriado no Município",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-21",
+      "nome": "Dia dos Garimpeiros",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-21",
+      "nome": "Dia da Dança do Congo — a Lei n. 897/2010 estende o feriado até às 12h deste dia; após às 12h, ponto facultativo",
+      "comarca": "Vila Bela da Santíssima Trindade",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Campo Novo do Parecis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Campo Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-25",
+      "nome": "Dia do Colono e do Motorista",
+      "comarca": "Canarana",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Matupá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-25",
+      "nome": "São Cristóvão (Padroeiro)",
+      "comarca": "Primavera do Leste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-25",
+      "nome": "Dia do Colono e Motorista",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-26",
+      "nome": "Nossa Senhora Sant'Ana (Padroeira)",
+      "comarca": "Chapada dos Guimarães",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-26",
+      "nome": "Nossa Senhora de Sant'Ana (Padroeira)",
+      "comarca": "Nortelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-26",
+      "nome": "São Joaquim e Sant'Ana (Padroeiros)",
+      "comarca": "Novo São Joaquim",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-27",
+      "nome": "Fundação do Município",
+      "comarca": "Vera",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-07-31",
+      "nome": "Aniversário do Município",
+      "comarca": "Chapada dos Guimarães",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-02",
+      "nome": "Aniversário do Município",
+      "comarca": "Guiratinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-05",
+      "nome": "Aniversário do Município",
+      "comarca": "Lucas do Rio Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-06",
+      "nome": "Festa do Senhor Bom Jesus de Arenápolis",
+      "comarca": "Arenápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-06",
+      "nome": "Senhor Bom Jesus (Padroeiro)",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-06",
+      "nome": "Bom Jesus (Padroeiro)",
+      "comarca": "Juscimeira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-06",
+      "nome": "Aniversário do Município",
+      "comarca": "Pontes e Lacerda",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-10",
+      "nome": "Dia do Advogado — art. 62, IV, Lei 5.010/1996 (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-11",
+      "nome": "Dia do Advogado — art. 62, IV, Lei 5.010/1996 (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-14",
+      "nome": "Dia do Evangélico",
+      "comarca": "Ribeirão Cascalheira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-15",
+      "nome": "Nossa Senhora da Glória (Padroeira)",
+      "comarca": "Cláudia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-15",
+      "nome": "Nossa Senhora da Assunção (Padroeira)",
+      "comarca": "São Félix do Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-16",
+      "nome": "São Roque (Padroeiro)",
+      "comarca": "Rio Branco",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Monte Verde",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-25",
+      "nome": "São Luiz de Cáceres (Padroeiro)",
+      "comarca": "Cáceres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-08-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Rosário Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-07",
+      "nome": "Independência do Brasil (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-14",
+      "nome": "Santa Cruz (Padroeira)",
+      "comarca": "Barra do Bugres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Sinop",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-15",
+      "nome": "Aniversário do Município",
+      "comarca": "Barra do Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-18",
+      "nome": "Aniversário do Município",
+      "comarca": "Diamantino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Jauru",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-24",
+      "nome": "Nossa Senhora da Libertação (Padroeira)",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-09-25",
+      "nome": "Dia do Evangélico",
+      "comarca": "Novo São Joaquim",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-04",
+      "nome": "São Francisco de Assis (Padroeiro)",
+      "comarca": "Aripuanã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-04",
+      "nome": "Santo Francisco de Assis (Padroeiro)",
+      "comarca": "Jaciara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-06",
+      "nome": "Aniversário do Município",
+      "comarca": "Cáceres",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-07",
+      "nome": "Nossa Senhora do Rosário (Padroeira)",
+      "comarca": "Guarantã do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-07",
+      "nome": "Nossa Senhora do Rosário",
+      "comarca": "Poconé",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-07",
+      "nome": "Nossa Senhora do Rosário (Padroeira)",
+      "comarca": "Rosário Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Água Boa",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Nova Ubiratã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida (Padroeira)",
+      "comarca": "Terra Nova do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-21",
+      "nome": "Aniversário do Município",
+      "comarca": "Jaciara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-26",
+      "nome": "Aniversário do Município",
+      "comarca": "Alto Araguaia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-26",
+      "nome": "Aniversário do Município",
+      "comarca": "Poxoréu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-28",
+      "nome": "Dia do Servidor Público (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-28",
+      "nome": "Aniversário do Município",
+      "comarca": "Mirassol D'Oeste",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-28",
+      "nome": "São Judas Tadeu (Padroeiro)",
+      "comarca": "Vera",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Alto Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Aripuanã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Colniza",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia da Reforma Protestante",
+      "comarca": "Cotriguaçu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Juína",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Marcelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-10-31",
+      "nome": "Dia do Evangélico",
+      "comarca": "Sapezal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-01",
+      "nome": "Fundação do Município",
+      "comarca": "Campinápolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-02",
+      "nome": "Dia de Finados (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-11",
+      "nome": "Aniversário do Município",
+      "comarca": "Porto dos Gaúchos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-15",
+      "nome": "Proclamação da República (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-17",
+      "nome": "Aniversário do Município",
+      "comarca": "Feliz Natal",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-20",
+      "nome": "Dia da Consciência Negra (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-20",
+      "nome": "Dia da Consciência Negra (já é feriado nacional)",
+      "comarca": "Cuiabá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-22",
+      "nome": "Santa Cecília (Padroeira)",
+      "comarca": "Apiacás",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-26",
+      "nome": "Aniversário do Município",
+      "comarca": "Colniza",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-27",
+      "nome": "Nossa Senhora das Graças (Padroeira)",
+      "comarca": "Nova Xavantina",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-30",
+      "nome": "Dia do Evangélico",
+      "comarca": "Peixoto de Azevedo",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-11-30",
+      "nome": "Dia do Cristão Evangélico",
+      "comarca": "Rio Branco",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-01",
+      "nome": "Aniversário do Município",
+      "comarca": "Itiquira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-03",
+      "nome": "São Francisco Xavier (Padroeiro)",
+      "comarca": "Paranatinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-07",
+      "nome": "Dia da Justiça — Decreto-Lei 8.292/1945 (feriado forense)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-08",
+      "nome": "Dia da Justiça — Decreto-Lei 8.292/1945 (feriado forense)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-08",
+      "nome": "Imaculada Conceição (Padroeira)",
+      "comarca": "Diamantino",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-08",
+      "nome": "Nossa Senhora Imaculada Conceição (Padroeira)",
+      "comarca": "Marcelândia",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-08",
+      "nome": "Nossa Senhora da Conceição (Padroeira)",
+      "comarca": "Poconé",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-08",
+      "nome": "Nossa Senhora Imaculada Conceição (Padroeira)",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-08",
+      "nome": "Imaculada Conceição (Padroeira)",
+      "comarca": "Cuiabá",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-10",
+      "nome": "Aniversário do Município",
+      "comarca": "Alto Garças",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-10",
+      "nome": "Aniversário do Município",
+      "comarca": "Juscimeira",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-10",
+      "nome": "Aniversário do Município",
+      "comarca": "Rondonópolis",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-11",
+      "nome": "Dia do Evangélico",
+      "comarca": "Porto Alegre do Norte",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-14",
+      "nome": "Aniversário do Município",
+      "comarca": "Juara",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-14",
+      "nome": "Emancipação Política",
+      "comarca": "São José dos Quatro Marcos",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-17",
+      "nome": "Aniversário do Município",
+      "comarca": "Paranatinga",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-18",
+      "nome": "Aniversário do Município",
+      "comarca": "Colíder",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Nova Ubiratã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-19",
+      "nome": "Aniversário do Município",
+      "comarca": "Querência",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Cotriguaçu",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-20",
+      "nome": "Aniversário do Município",
+      "comarca": "Tabaporã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-24",
+      "nome": "Natal (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-25",
+      "nome": "Natal (feriado nacional)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-31",
+      "nome": "Ano Novo (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-12-31",
+      "nome": "Aniversário do Município",
+      "comarca": "Aripuanã",
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "1915/2025-PRES"
+    },
+    {
+      "iso": "2026-06-13",
+      "nome": "Expediente especial (8h às 15h) — Copa do Mundo: Brasil x Marrocos (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "752/2026-PRES"
+    },
+    {
+      "iso": "2026-06-19",
+      "nome": "Expediente especial (8h às 15h) — Copa do Mundo: Brasil x Haiti (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "752/2026-PRES"
+    },
+    {
+      "iso": "2026-06-24",
+      "nome": "Expediente especial (8h às 15h) — Copa do Mundo: Escócia x Brasil (ponto facultativo)",
+      "comarca": null,
+      "tribunal": "TJMT",
+      "origem": "base",
+      "numeroPortaria": "752/2026-PRES"
+    }
+  ],
+  "basePortarias": [
+    {
+      "id": "bp_mr7pjf4v_eimj1",
+      "tribunal": "TJMT",
+      "ano": 2025,
+      "comarca": "",
+      "numero": "1428/2024-PRES",
+      "observacao": "Estabelece o calendário forense oficial do Poder Judiciário do Estado de Mato Grosso para 2025.",
+      "datas": [
+        {
+          "iso": "2025-01-01",
+          "descricao": "Confraternização Universal (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Alto Garças"
+        },
+        {
+          "iso": "2025-01-20",
+          "descricao": "Memorial em Homenagem ao Monsenhor Ermínio Celso Duca",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2025-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Arenápolis"
+        },
+        {
+          "iso": "2025-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Dom Aquino"
+        },
+        {
+          "iso": "2025-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Itiquira"
+        },
+        {
+          "iso": "2025-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Nobres"
+        },
+        {
+          "iso": "2025-01-21",
+          "descricao": "Aniversário do Município",
+          "comarca": "Poconé"
+        },
+        {
+          "iso": "2025-01-25",
+          "descricao": "Homenagem Póstuma ao Bispo Dom Camilo Faresin",
+          "comarca": "Guiratinga"
+        },
+        {
+          "iso": "2025-02-02",
+          "descricao": "Emancipação Política",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2025-02-02",
+          "descricao": "Nossa Senhora dos Navegantes (Padroeira)",
+          "comarca": "Porto dos Gaúchos"
+        },
+        {
+          "iso": "2025-02-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Arenápolis"
+        },
+        {
+          "iso": "2025-02-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nortelândia"
+        },
+        {
+          "iso": "2025-02-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "Canarana"
+        },
+        {
+          "iso": "2025-02-22",
+          "descricao": "Homenagem Póstuma ao Padre Nazareno Lanciotti",
+          "comarca": "Jauru"
+        },
+        {
+          "iso": "2025-02-27",
+          "descricao": "Falecimento do Padre Giacomo Gueva",
+          "comarca": "Mirassol D'Oeste"
+        },
+        {
+          "iso": "2025-02-28",
+          "descricao": "Em Memória do Fundador da Cidade",
+          "comarca": "Juara"
+        },
+        {
+          "iso": "2025-03-03",
+          "descricao": "Carnaval (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-03-04",
+          "descricao": "Carnaval (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-03-05",
+          "descricao": "Cinzas — expediente a partir das 13h",
+          "comarca": null
+        },
+        {
+          "iso": "2025-03-19",
+          "descricao": "São José (Padroeiro)",
+          "comarca": "Alto Taquari"
+        },
+        {
+          "iso": "2025-03-19",
+          "descricao": "São José (Padroeiro)",
+          "comarca": "Juara"
+        },
+        {
+          "iso": "2025-03-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "São José do Rio Claro"
+        },
+        {
+          "iso": "2025-03-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        },
+        {
+          "iso": "2025-04-07",
+          "descricao": "Aniversário do Município (ponto facultativo)",
+          "comarca": "Cuiabá"
+        },
+        {
+          "iso": "2025-04-08",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cuiabá"
+        },
+        {
+          "iso": "2025-04-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Dom Aquino"
+        },
+        {
+          "iso": "2025-04-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Xavantina"
+        },
+        {
+          "iso": "2025-04-17",
+          "descricao": "Paixão de Cristo (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-04-18",
+          "descricao": "Paixão de Cristo (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-04-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Barra do Bugres"
+        },
+        {
+          "iso": "2025-04-19",
+          "descricao": "Dia dos Povos Indígenas",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2025-04-21",
+          "descricao": "Tiradentes (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-04-22",
+          "descricao": "Pioneiro e Fundador do Município",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2025-04-29",
+          "descricao": "Chegada da Imagem de Nossa Senhora do Pilar (Padroeira)",
+          "comarca": "Jauru"
+        },
+        {
+          "iso": "2025-05-01",
+          "descricao": "Dia do Trabalho (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-05-01",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nobres"
+        },
+        {
+          "iso": "2025-05-01",
+          "descricao": "Dia de São José",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2025-05-02",
+          "descricao": "Dia do Trabalho (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-05-03",
+          "descricao": "Aniversário do Município",
+          "comarca": "Ribeirão Cascalheira"
+        },
+        {
+          "iso": "2025-05-05",
+          "descricao": "Homenagem a Marechal Rondon",
+          "comarca": "Santo Antônio de Leverger"
+        },
+        {
+          "iso": "2025-05-09",
+          "descricao": "Aniversário do Município",
+          "comarca": "Juína"
+        },
+        {
+          "iso": "2025-05-12",
+          "descricao": "Falecimento do Padre George Joseph Pierre Marie Martin",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alto Taquari"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Nossa Senhora do Rosário de Fátima (Padroeira)",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Comodoro"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Itaúba"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Nossa Senhora de Fátima (Padroeira)",
+          "comarca": "Lucas do Rio Verde"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Marcelândia"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Canaã do Norte"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Novo São Joaquim"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Pedra Preta"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Emancipação Político-Administrativa do Município",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Porto Esperidião"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Primavera do Leste"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "São Félix do Araguaia"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Nossa Senhora de Fátima (Padroeira)",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Sorriso"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Tangará da Serra"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Terra Nova do Norte"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Vera"
+        },
+        {
+          "iso": "2025-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Vila Rica"
+        },
+        {
+          "iso": "2025-05-14",
+          "descricao": "Emancipação Política",
+          "comarca": "Mirassol D'Oeste"
+        },
+        {
+          "iso": "2025-05-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "Várzea Grande"
+        },
+        {
+          "iso": "2025-05-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alta Floresta"
+        },
+        {
+          "iso": "2025-05-22",
+          "descricao": "Aniversário do Município",
+          "comarca": "Rio Branco"
+        },
+        {
+          "iso": "2025-05-23",
+          "descricao": "Aniversário do Município",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2025-05-24",
+          "descricao": "Nossa Senhora Auxiliadora (Padroeira)",
+          "comarca": "Alto Araguaia"
+        },
+        {
+          "iso": "2025-05-24",
+          "descricao": "Nossa Senhora Auxiliadora (Padroeira)",
+          "comarca": "Canarana"
+        },
+        {
+          "iso": "2025-05-29",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Cotriguaçu"
+        },
+        {
+          "iso": "2025-06-01",
+          "descricao": "Aniversário do Município",
+          "comarca": "Brasnorte"
+        },
+        {
+          "iso": "2025-06-02",
+          "descricao": "Aniversário do Município",
+          "comarca": "Guarantã do Norte"
+        },
+        {
+          "iso": "2025-06-13",
+          "descricao": "Santo Antônio (Padroeiro)",
+          "comarca": "Barra do Garças"
+        },
+        {
+          "iso": "2025-06-13",
+          "descricao": "Dia do Patrono do Município",
+          "comarca": "Nova Monte Verde"
+        },
+        {
+          "iso": "2025-06-13",
+          "descricao": "Festa do Domingão",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2025-06-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Santo Antônio de Leverger"
+        },
+        {
+          "iso": "2025-06-13",
+          "descricao": "Santo Antônio (Padroeiro)",
+          "comarca": "Sinop"
+        },
+        {
+          "iso": "2025-06-13",
+          "descricao": "Santo Antônio (Padroeiro)",
+          "comarca": "Tabaporã"
+        },
+        {
+          "iso": "2025-06-14",
+          "descricao": "Dia do Evangélico",
+          "comarca": "São Félix do Araguaia"
+        },
+        {
+          "iso": "2025-06-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2025-06-19",
+          "descricao": "Corpus Christi (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-06-20",
+          "descricao": "Corpus Christi (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Colíder"
+        },
+        {
+          "iso": "2025-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Guiratinga"
+        },
+        {
+          "iso": "2025-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Poxoréu"
+        },
+        {
+          "iso": "2025-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Ribeirão Cascalheira"
+        },
+        {
+          "iso": "2025-06-25",
+          "descricao": "Aniversário do Município",
+          "comarca": "Rosário Oeste"
+        },
+        {
+          "iso": "2025-06-27",
+          "descricao": "Sagrado Coração de Jesus (Padroeiro)",
+          "comarca": "Juína"
+        },
+        {
+          "iso": "2025-06-27",
+          "descricao": "Sagrado Coração de Jesus (Padroeiro)",
+          "comarca": "Nova Canaã do Norte"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Feliz Natal"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Itaúba"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "Aniversário do Município",
+          "comarca": "Paranaíta"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "Dia da Fundação do Município",
+          "comarca": "Paranatinga"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "São Pedro Apóstolo (Padroeiro)",
+          "comarca": "Pedra Preta"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Sorriso"
+        },
+        {
+          "iso": "2025-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Vila Rica"
+        },
+        {
+          "iso": "2025-07-03",
+          "descricao": "Aniversário do Município",
+          "comarca": "Apiacás"
+        },
+        {
+          "iso": "2025-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Campo Novo do Parecis"
+        },
+        {
+          "iso": "2025-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Campo Verde"
+        },
+        {
+          "iso": "2025-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cláudia"
+        },
+        {
+          "iso": "2025-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Matupá"
+        },
+        {
+          "iso": "2025-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Mutum"
+        },
+        {
+          "iso": "2025-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Tapurah"
+        },
+        {
+          "iso": "2025-07-09",
+          "descricao": "Aniversário do Município",
+          "comarca": "Água Boa",
+          "realocadoPara": "2025-07-07",
+          "portariaRealocacao": "988/2025-PRES"
+        },
+        {
+          "iso": "2025-07-14",
+          "descricao": "Dia da Dança do Congo (Lei n. 896/2010) — institui a segunda-feira da segunda quinzena de julho como feriado no Município",
+          "comarca": "Vila Bela da Santíssima Trindade",
+          "realocadoPara": "2025-07-21",
+          "portariaRealocacao": "988/2025-PRES"
+        },
+        {
+          "iso": "2025-07-15",
+          "descricao": "Dia da Dança do Congo — a Lei n. 897/2010 estende o feriado até às 12h deste dia; após às 12h, ponto facultativo",
+          "comarca": "Vila Bela da Santíssima Trindade",
+          "realocadoPara": "2025-07-22",
+          "portariaRealocacao": "988/2025-PRES"
+        },
+        {
+          "iso": "2025-07-16",
+          "descricao": "Nossa Senhora do Carmo (Padroeira)",
+          "comarca": "Itiquira"
+        },
+        {
+          "iso": "2025-07-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2025-07-21",
+          "descricao": "Dia do Garimpeiro",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2025-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Campo Novo do Parecis"
+        },
+        {
+          "iso": "2025-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Campo Verde"
+        },
+        {
+          "iso": "2025-07-25",
+          "descricao": "Dia do Colono e Motorista",
+          "comarca": "Canarana"
+        },
+        {
+          "iso": "2025-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Matupá"
+        },
+        {
+          "iso": "2025-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Primavera do Leste"
+        },
+        {
+          "iso": "2025-07-25",
+          "descricao": "Dia do Colono e Motorista",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2025-07-26",
+          "descricao": "Nossa Senhora de Sant'ana (Padroeira)",
+          "comarca": "Chapada dos Guimarães"
+        },
+        {
+          "iso": "2025-07-26",
+          "descricao": "Nossa Senhora de Sant'Ana (Padroeira)",
+          "comarca": "Nortelândia"
+        },
+        {
+          "iso": "2025-07-26",
+          "descricao": "São Joaquim e Sant'Ana (Padroeiros)",
+          "comarca": "Novo São Joaquim"
+        },
+        {
+          "iso": "2025-07-27",
+          "descricao": "Fundação do Município",
+          "comarca": "Vera"
+        },
+        {
+          "iso": "2025-07-31",
+          "descricao": "Aniversário do Município",
+          "comarca": "Chapada dos Guimarães"
+        },
+        {
+          "iso": "2025-08-02",
+          "descricao": "Aniversário do Município",
+          "comarca": "Guiratinga"
+        },
+        {
+          "iso": "2025-08-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Lucas do Rio Verde"
+        },
+        {
+          "iso": "2025-08-06",
+          "descricao": "Festa do Senhor Bom Jesus de Arenápolis",
+          "comarca": "Arenápolis"
+        },
+        {
+          "iso": "2025-08-06",
+          "descricao": "Senhor Bom Jesus (Padroeiro)",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2025-08-06",
+          "descricao": "Bom Jesus (Padroeiro)",
+          "comarca": "Juscimeira"
+        },
+        {
+          "iso": "2025-08-06",
+          "descricao": "Aniversário do Município",
+          "comarca": "Pontes e Lacerda"
+        },
+        {
+          "iso": "2025-08-08",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Ribeirão Cascalheira"
+        },
+        {
+          "iso": "2025-08-11",
+          "descricao": "Dia do Advogado — art. 62, IV, Lei 5.010/1996 (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-08-15",
+          "descricao": "Nossa Senhora da Glória (Padroeira)",
+          "comarca": "Cláudia"
+        },
+        {
+          "iso": "2025-08-15",
+          "descricao": "Nossa Senhora da Assunção (Padroeira)",
+          "comarca": "São Félix do Araguaia"
+        },
+        {
+          "iso": "2025-08-16",
+          "descricao": "São Roque (Padroeiro)",
+          "comarca": "Rio Branco"
+        },
+        {
+          "iso": "2025-08-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Monte Verde"
+        },
+        {
+          "iso": "2025-08-25",
+          "descricao": "São Luiz de Cáceres (Padroeiro)",
+          "comarca": "Cáceres"
+        },
+        {
+          "iso": "2025-08-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Rosário Oeste"
+        },
+        {
+          "iso": "2025-09-07",
+          "descricao": "Independência do Brasil (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-09-14",
+          "descricao": "Santa Cruz (Padroeira)",
+          "comarca": "Barra do Bugres"
+        },
+        {
+          "iso": "2025-09-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Sinop"
+        },
+        {
+          "iso": "2025-09-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "Barra do Garças"
+        },
+        {
+          "iso": "2025-09-18",
+          "descricao": "Aniversário do Município",
+          "comarca": "Diamantino"
+        },
+        {
+          "iso": "2025-09-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2025-09-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Jauru"
+        },
+        {
+          "iso": "2025-09-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Tabaporã"
+        },
+        {
+          "iso": "2025-09-24",
+          "descricao": "Nossa Senhora da Libertação (Padroeira)",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2025-09-25",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Novo São Joaquim"
+        },
+        {
+          "iso": "2025-10-04",
+          "descricao": "São Francisco de Assis (Padroeiro)",
+          "comarca": "Aripuanã"
+        },
+        {
+          "iso": "2025-10-04",
+          "descricao": "São Francisco de Assis (Padroeiro)",
+          "comarca": "Jaciara"
+        },
+        {
+          "iso": "2025-10-06",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cáceres"
+        },
+        {
+          "iso": "2025-10-07",
+          "descricao": "Nossa Senhora do Rosário (Padroeira)",
+          "comarca": "Guarantã do Norte"
+        },
+        {
+          "iso": "2025-10-07",
+          "descricao": "Nossa Senhora do Rosário (Padroeira)",
+          "comarca": "Poconé"
+        },
+        {
+          "iso": "2025-10-07",
+          "descricao": "Nossa Senhora do Rosário (Padroeira)",
+          "comarca": "Rosário Oeste"
+        },
+        {
+          "iso": "2025-10-12",
+          "descricao": "Nossa Senhora Aparecida (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Água Boa"
+        },
+        {
+          "iso": "2025-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Nova Ubiratã"
+        },
+        {
+          "iso": "2025-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2025-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Terra Nova do Norte"
+        },
+        {
+          "iso": "2025-10-21",
+          "descricao": "Aniversário do Município",
+          "comarca": "Jaciara"
+        },
+        {
+          "iso": "2025-10-26",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alto Araguaia"
+        },
+        {
+          "iso": "2025-10-26",
+          "descricao": "Aniversário do Município",
+          "comarca": "Poxoréu"
+        },
+        {
+          "iso": "2025-10-28",
+          "descricao": "Dia do Servidor Público (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-10-28",
+          "descricao": "Aniversário do Município",
+          "comarca": "Mirassol D'Oeste"
+        },
+        {
+          "iso": "2025-10-28",
+          "descricao": "São Judas Tadeu (Padroeiro)",
+          "comarca": "Vera"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Alto Garças"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Aripuanã"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Colniza"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia da Reforma Protestante",
+          "comarca": "Cotriguaçu"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Marcelândia"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2025-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Vila Rica"
+        },
+        {
+          "iso": "2025-11-01",
+          "descricao": "Fundação do Município",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2025-11-02",
+          "descricao": "Dia de Finados (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-11-11",
+          "descricao": "Aniversário do Município",
+          "comarca": "Porto dos Gaúchos"
+        },
+        {
+          "iso": "2025-11-15",
+          "descricao": "Proclamação da República (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-11-17",
+          "descricao": "Aniversário do Município",
+          "comarca": "Feliz Natal"
+        },
+        {
+          "iso": "2025-11-20",
+          "descricao": "Dia da Consciência Negra (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-11-21",
+          "descricao": "Dia da Consciência Negra (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-11-22",
+          "descricao": "Santa Cecília (Padroeira)",
+          "comarca": "Apiacás"
+        },
+        {
+          "iso": "2025-11-26",
+          "descricao": "Aniversário do Município",
+          "comarca": "Colniza"
+        },
+        {
+          "iso": "2025-11-27",
+          "descricao": "Nossa Senhora das Graças (Padroeira)",
+          "comarca": "Nova Xavantina"
+        },
+        {
+          "iso": "2025-11-30",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2025-11-30",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Rio Branco"
+        },
+        {
+          "iso": "2025-12-01",
+          "descricao": "Aniversário do Município",
+          "comarca": "Itiquira"
+        },
+        {
+          "iso": "2025-12-03",
+          "descricao": "São Francisco Xavier (Padroeiro)",
+          "comarca": "Paranatinga"
+        },
+        {
+          "iso": "2025-12-05",
+          "descricao": "Dia dos Evangélicos",
+          "comarca": "Porto Alegre do Norte",
+          "realocadoPara": "2025-12-12",
+          "portariaRealocacao": "1845/2025-PRES"
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Dia da Justiça — Decreto-Lei 8.292/1945 (feriado forense)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Imaculada Conceição (Padroeira)",
+          "comarca": "Cuiabá"
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Imaculada Conceição (Padroeira)",
+          "comarca": "Diamantino"
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Nossa Senhora da Conceição (Padroeira)",
+          "comarca": "Marcelândia"
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Nossa Senhora da Conceição",
+          "comarca": "Poconé"
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Nossa Senhora Imaculada Conceição (Padroeira)",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2025-12-08",
+          "descricao": "Imaculada Conceição (ponto facultativo municipal)",
+          "comarca": "Várzea Grande"
+        },
+        {
+          "iso": "2025-12-10",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alto Garças"
+        },
+        {
+          "iso": "2025-12-10",
+          "descricao": "Aniversário do Município",
+          "comarca": "Juscimeira"
+        },
+        {
+          "iso": "2025-12-10",
+          "descricao": "Aniversário do Município",
+          "comarca": "Rondonópolis"
+        },
+        {
+          "iso": "2025-12-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Juara"
+        },
+        {
+          "iso": "2025-12-14",
+          "descricao": "Emancipação Política",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2025-12-17",
+          "descricao": "Aniversário do Município",
+          "comarca": "Paranatinga"
+        },
+        {
+          "iso": "2025-12-18",
+          "descricao": "Aniversário do Município",
+          "comarca": "Colíder"
+        },
+        {
+          "iso": "2025-12-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Ubiratã"
+        },
+        {
+          "iso": "2025-12-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2025-12-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cotriguaçu"
+        },
+        {
+          "iso": "2025-12-24",
+          "descricao": "Natal (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-12-25",
+          "descricao": "Natal (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-12-31",
+          "descricao": "Ano Novo (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2025-12-31",
+          "descricao": "Aniversário do Município",
+          "comarca": "Aripuanã"
+        }
+      ],
+      "dataPortaria": "2024-12-03",
+      "ehCalendarioAnual": true,
+      "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/1428_-feriados_2025.pdf"
+    },
+    {
+      "id": "bp_mr7pjf4x_m9b69",
+      "tribunal": "TJMT",
+      "ano": 2025,
+      "comarca": "",
+      "numero": "988/2025-PRES",
+      "observacao": "Altera o Anexo II, itens 1 e 78, da Portaria TJMT/PRES n. 1428/2024, que estabelece o calendário forense oficial do Poder Judiciário do Estado de Mato Grosso para 2025.",
+      "datas": [
+        {
+          "iso": "2025-07-07",
+          "descricao": "Aniversário do Município",
+          "comarca": "Água Boa"
+        },
+        {
+          "iso": "2025-07-21",
+          "descricao": "Dia da Dança do Congo — Decreto Municipal 26/2025 estende o feriado até às 12h do dia seguinte",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        },
+        {
+          "iso": "2025-07-22",
+          "descricao": "Dia da Dança do Congo — após às 12h, ponto facultativo",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        }
+      ],
+      "dataPortaria": "2025-06-27",
+      "ehCalendarioAnual": false,
+      "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/988_2025-PRES.pdf"
+    },
+    {
+      "id": "bp_mr7pjf4x_cwdsj",
+      "tribunal": "TJMT",
+      "ano": 2025,
+      "comarca": "",
+      "numero": "1536/2025-PRES",
+      "observacao": "Altera o Anexo I da Portaria TJMT/PRES n. 1428/2024, que estabelece o calendário forense oficial do Poder Judiciário do Estado de Mato Grosso para 2025 (acrescenta 27/10 como ponto facultativo pelo Dia do Servidor Público).",
+      "datas": [
+        {
+          "iso": "2025-10-27",
+          "descricao": "Dia do Servidor Público (ponto facultativo)",
+          "comarca": null
+        }
+      ],
+      "dataPortaria": "2025-10-02",
+      "ehCalendarioAnual": false,
+      "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/Portaria_1536_-_02_de_Outubro_de_2025_(1).pdf"
+    },
+    {
+      "id": "bp_mr7pjf4x_8wvn8",
+      "tribunal": "TJMT",
+      "ano": 2025,
+      "comarca": "Porto Alegre do Norte",
+      "numero": "1845/2025-PRES",
+      "observacao": "Altera a Portaria TJMT/PRES n. 1428/2024, que estabelece o calendário forense oficial do Poder Judiciário do Estado de Mato Grosso para 2025 (Porto Alegre do Norte — Dia dos Evangélicos).",
+      "datas": [
+        {
+          "iso": "2025-12-12",
+          "descricao": "Dia dos Evangélicos",
+          "comarca": "Porto Alegre do Norte"
+        }
+      ],
+      "dataPortaria": "2025-11-25",
+      "ehCalendarioAnual": false,
+      "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/PdfViewer.pdf"
+    },
+    {
+      "id": "bp_mr7pjf4y_yw9pg",
+      "tribunal": "TJMT",
+      "ano": 2026,
+      "comarca": "",
+      "numero": "1915/2025-PRES",
+      "observacao": "Estabelece o calendário forense oficial do Poder Judiciário do Estado de Mato Grosso para 2026.",
+      "datas": [
+        {
+          "iso": "2026-01-01",
+          "descricao": "Confraternização Universal (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Alto Garças"
+        },
+        {
+          "iso": "2026-01-20",
+          "descricao": "Memorial em Homenagem ao Monsenhor Ermínio Celso Duca",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2026-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Arenápolis"
+        },
+        {
+          "iso": "2026-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Dom Aquino"
+        },
+        {
+          "iso": "2026-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Itiquira"
+        },
+        {
+          "iso": "2026-01-20",
+          "descricao": "São Sebastião (Padroeiro)",
+          "comarca": "Nobres"
+        },
+        {
+          "iso": "2026-01-21",
+          "descricao": "Aniversário do Município",
+          "comarca": "Poconé"
+        },
+        {
+          "iso": "2026-01-25",
+          "descricao": "Homenagem Póstuma ao Bispo Dom Camilo Faresin",
+          "comarca": "Guiratinga"
+        },
+        {
+          "iso": "2026-02-02",
+          "descricao": "Emancipação Política",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2026-02-02",
+          "descricao": "Nossa Senhora dos Navegantes (Padroeira)",
+          "comarca": "Porto dos Gaúchos"
+        },
+        {
+          "iso": "2026-02-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Arenápolis"
+        },
+        {
+          "iso": "2026-02-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nortelândia"
+        },
+        {
+          "iso": "2026-02-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "Canarana"
+        },
+        {
+          "iso": "2026-02-16",
+          "descricao": "Carnaval (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-02-17",
+          "descricao": "Carnaval (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-02-18",
+          "descricao": "Cinzas — expediente a partir das 13h (Portaria 338/2023-PRES)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-02-22",
+          "descricao": "Homenagem Póstuma ao Padre Nazareno Lanciotti",
+          "comarca": "Jauru"
+        },
+        {
+          "iso": "2026-02-27",
+          "descricao": "Falecimento do Padre Giacomo Gueva",
+          "comarca": "Mirassol D'Oeste"
+        },
+        {
+          "iso": "2026-02-28",
+          "descricao": "Em Memória ao Fundador da Cidade",
+          "comarca": "Juara"
+        },
+        {
+          "iso": "2026-03-19",
+          "descricao": "São José (Padroeiro)",
+          "comarca": "Alto Taquari"
+        },
+        {
+          "iso": "2026-03-19",
+          "descricao": "São José (Padroeiro)",
+          "comarca": "Juara"
+        },
+        {
+          "iso": "2026-03-19",
+          "descricao": "Emancipação Política do Município",
+          "comarca": "São José do Rio Claro"
+        },
+        {
+          "iso": "2026-03-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        },
+        {
+          "iso": "2026-03-20",
+          "descricao": "Ponto facultativo",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        },
+        {
+          "iso": "2026-04-02",
+          "descricao": "Paixão de Cristo (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-04-03",
+          "descricao": "Paixão de Cristo (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-04-08",
+          "descricao": "Aniversário de Cuiabá",
+          "comarca": "Cuiabá"
+        },
+        {
+          "iso": "2026-04-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Dom Aquino"
+        },
+        {
+          "iso": "2026-04-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Xavantina"
+        },
+        {
+          "iso": "2026-04-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Barra do Bugres"
+        },
+        {
+          "iso": "2026-04-19",
+          "descricao": "Dia dos Povos Indígenas",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2026-04-20",
+          "descricao": "Tiradentes (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-04-21",
+          "descricao": "Tiradentes (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-04-22",
+          "descricao": "Pioneiro e Fundador do Município",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2026-04-29",
+          "descricao": "Chegada da Imagem de Nossa Senhora do Pilar (Padroeira)",
+          "comarca": "Jauru"
+        },
+        {
+          "iso": "2026-05-01",
+          "descricao": "Dia do Trabalho (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-05-01",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nobres"
+        },
+        {
+          "iso": "2026-05-01",
+          "descricao": "São José (Padroeiro)",
+          "comarca": "São José do Rio Claro"
+        },
+        {
+          "iso": "2026-05-03",
+          "descricao": "Aniversário do Município",
+          "comarca": "Ribeirão Cascalheira"
+        },
+        {
+          "iso": "2026-05-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Juína"
+        },
+        {
+          "iso": "2026-05-05",
+          "descricao": "Homenagem a Marechal Rondon",
+          "comarca": "Santo Antônio de Leverger"
+        },
+        {
+          "iso": "2026-05-12",
+          "descricao": "Falecimento do Padre George Joseph Pierre Marie Martin",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alto Taquari"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Nossa Senhora do Rosário de Fátima (Padroeira)",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Comodoro"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Itaúba"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Dia da Padroeira",
+          "comarca": "Lucas do Rio Verde"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Emancipação Político-Administrativa",
+          "comarca": "Marcelândia"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Canaã do Norte"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Emancipação Política do Município",
+          "comarca": "Novo São Joaquim"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Pedra Preta"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Emancipação Política e Administrativa",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Porto Esperidião"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Primavera do Leste"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "São Félix do Araguaia"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Padroeira do Município",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Sorriso"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Tangará da Serra"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Terra Nova do Norte"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Emancipação Política do Município",
+          "comarca": "Vera"
+        },
+        {
+          "iso": "2026-05-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Vila Rica"
+        },
+        {
+          "iso": "2026-05-14",
+          "descricao": "Emancipação Política",
+          "comarca": "Mirassol D'Oeste"
+        },
+        {
+          "iso": "2026-05-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "Várzea Grande"
+        },
+        {
+          "iso": "2026-05-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alta Floresta"
+        },
+        {
+          "iso": "2026-05-22",
+          "descricao": "Aniversário do Município",
+          "comarca": "Rio Branco"
+        },
+        {
+          "iso": "2026-05-23",
+          "descricao": "Aniversário do Município",
+          "comarca": "Araputanga"
+        },
+        {
+          "iso": "2026-05-24",
+          "descricao": "Nossa Senhora Auxiliadora (Padroeira)",
+          "comarca": "Alto Araguaia"
+        },
+        {
+          "iso": "2026-05-24",
+          "descricao": "Nossa Senhora Auxiliadora (Padroeira)",
+          "comarca": "Canarana"
+        },
+        {
+          "iso": "2026-05-29",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Cotriguaçu"
+        },
+        {
+          "iso": "2026-06-01",
+          "descricao": "Aniversário do Município",
+          "comarca": "Brasnorte"
+        },
+        {
+          "iso": "2026-06-02",
+          "descricao": "Aniversário do Município",
+          "comarca": "Guarantã do Norte"
+        },
+        {
+          "iso": "2026-06-04",
+          "descricao": "Corpus Christi (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-06-05",
+          "descricao": "Corpus Christi (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-06-12",
+          "descricao": "Sagrado Coração de Jesus (Padroeiro)",
+          "comarca": "Juína"
+        },
+        {
+          "iso": "2026-06-12",
+          "descricao": "Sagrado Coração de Jesus (Padroeiro)",
+          "comarca": "Nova Canaã do Norte"
+        },
+        {
+          "iso": "2026-06-12",
+          "descricao": "Dia do Evangélico",
+          "comarca": "São Félix do Araguaia"
+        },
+        {
+          "iso": "2026-06-13",
+          "descricao": "Santo Antônio (Padroeiro)",
+          "comarca": "Barra do Garças"
+        },
+        {
+          "iso": "2026-06-13",
+          "descricao": "Dia do Patrono do Município",
+          "comarca": "Nova Monte Verde"
+        },
+        {
+          "iso": "2026-06-13",
+          "descricao": "Festa do Domingão",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2026-06-13",
+          "descricao": "Aniversário do Município",
+          "comarca": "Santo Antônio de Leverger"
+        },
+        {
+          "iso": "2026-06-13",
+          "descricao": "Santo Antônio (Padroeiro)",
+          "comarca": "Sinop"
+        },
+        {
+          "iso": "2026-06-13",
+          "descricao": "Santo Antônio (Padroeiro)",
+          "comarca": "Tabaporã"
+        },
+        {
+          "iso": "2026-06-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2026-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Colíder"
+        },
+        {
+          "iso": "2026-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Guiratinga"
+        },
+        {
+          "iso": "2026-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Poxoréu"
+        },
+        {
+          "iso": "2026-06-24",
+          "descricao": "São João Batista (Padroeiro)",
+          "comarca": "Ribeirão Cascalheira"
+        },
+        {
+          "iso": "2026-06-25",
+          "descricao": "Aniversário do Município",
+          "comarca": "Rosário Oeste"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Feliz Natal"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Itaúba"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "Aniversário do Município",
+          "comarca": "Paranaíta"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "Fundação do Município",
+          "comarca": "Paranatinga"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Pedra Preta"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Sorriso"
+        },
+        {
+          "iso": "2026-06-29",
+          "descricao": "São Pedro (Padroeiro)",
+          "comarca": "Vila Rica"
+        },
+        {
+          "iso": "2026-07-03",
+          "descricao": "Aniversário do Município",
+          "comarca": "Apiacás"
+        },
+        {
+          "iso": "2026-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Campo Novo do Parecis"
+        },
+        {
+          "iso": "2026-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Campo Verde"
+        },
+        {
+          "iso": "2026-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cláudia"
+        },
+        {
+          "iso": "2026-07-04",
+          "descricao": "Emancipação Política do Município",
+          "comarca": "Matupá"
+        },
+        {
+          "iso": "2026-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Mutum"
+        },
+        {
+          "iso": "2026-07-04",
+          "descricao": "Aniversário do Município",
+          "comarca": "Tapurah"
+        },
+        {
+          "iso": "2026-07-09",
+          "descricao": "Aniversário do Município",
+          "comarca": "Água Boa"
+        },
+        {
+          "iso": "2026-07-16",
+          "descricao": "Nossa Senhora do Carmo (Padroeira)",
+          "comarca": "Itiquira"
+        },
+        {
+          "iso": "2026-07-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2026-07-20",
+          "descricao": "Dia da Dança do Congo (Lei n. 896/2010) — institui a segunda-feira da segunda quinzena de julho como feriado no Município",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        },
+        {
+          "iso": "2026-07-21",
+          "descricao": "Dia dos Garimpeiros",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2026-07-21",
+          "descricao": "Dia da Dança do Congo — a Lei n. 897/2010 estende o feriado até às 12h deste dia; após às 12h, ponto facultativo",
+          "comarca": "Vila Bela da Santíssima Trindade"
+        },
+        {
+          "iso": "2026-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Campo Novo do Parecis"
+        },
+        {
+          "iso": "2026-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Campo Verde"
+        },
+        {
+          "iso": "2026-07-25",
+          "descricao": "Dia do Colono e do Motorista",
+          "comarca": "Canarana"
+        },
+        {
+          "iso": "2026-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Matupá"
+        },
+        {
+          "iso": "2026-07-25",
+          "descricao": "São Cristóvão (Padroeiro)",
+          "comarca": "Primavera do Leste"
+        },
+        {
+          "iso": "2026-07-25",
+          "descricao": "Dia do Colono e Motorista",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2026-07-26",
+          "descricao": "Nossa Senhora Sant'Ana (Padroeira)",
+          "comarca": "Chapada dos Guimarães"
+        },
+        {
+          "iso": "2026-07-26",
+          "descricao": "Nossa Senhora de Sant'Ana (Padroeira)",
+          "comarca": "Nortelândia"
+        },
+        {
+          "iso": "2026-07-26",
+          "descricao": "São Joaquim e Sant'Ana (Padroeiros)",
+          "comarca": "Novo São Joaquim"
+        },
+        {
+          "iso": "2026-07-27",
+          "descricao": "Fundação do Município",
+          "comarca": "Vera"
+        },
+        {
+          "iso": "2026-07-31",
+          "descricao": "Aniversário do Município",
+          "comarca": "Chapada dos Guimarães"
+        },
+        {
+          "iso": "2026-08-02",
+          "descricao": "Aniversário do Município",
+          "comarca": "Guiratinga"
+        },
+        {
+          "iso": "2026-08-05",
+          "descricao": "Aniversário do Município",
+          "comarca": "Lucas do Rio Verde"
+        },
+        {
+          "iso": "2026-08-06",
+          "descricao": "Festa do Senhor Bom Jesus de Arenápolis",
+          "comarca": "Arenápolis"
+        },
+        {
+          "iso": "2026-08-06",
+          "descricao": "Senhor Bom Jesus (Padroeiro)",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2026-08-06",
+          "descricao": "Bom Jesus (Padroeiro)",
+          "comarca": "Juscimeira"
+        },
+        {
+          "iso": "2026-08-06",
+          "descricao": "Aniversário do Município",
+          "comarca": "Pontes e Lacerda"
+        },
+        {
+          "iso": "2026-08-10",
+          "descricao": "Dia do Advogado — art. 62, IV, Lei 5.010/1996 (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-08-11",
+          "descricao": "Dia do Advogado — art. 62, IV, Lei 5.010/1996 (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-08-14",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Ribeirão Cascalheira"
+        },
+        {
+          "iso": "2026-08-15",
+          "descricao": "Nossa Senhora da Glória (Padroeira)",
+          "comarca": "Cláudia"
+        },
+        {
+          "iso": "2026-08-15",
+          "descricao": "Nossa Senhora da Assunção (Padroeira)",
+          "comarca": "São Félix do Araguaia"
+        },
+        {
+          "iso": "2026-08-16",
+          "descricao": "São Roque (Padroeiro)",
+          "comarca": "Rio Branco"
+        },
+        {
+          "iso": "2026-08-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Monte Verde"
+        },
+        {
+          "iso": "2026-08-25",
+          "descricao": "São Luiz de Cáceres (Padroeiro)",
+          "comarca": "Cáceres"
+        },
+        {
+          "iso": "2026-08-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Rosário Oeste"
+        },
+        {
+          "iso": "2026-09-07",
+          "descricao": "Independência do Brasil (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-09-14",
+          "descricao": "Santa Cruz (Padroeira)",
+          "comarca": "Barra do Bugres"
+        },
+        {
+          "iso": "2026-09-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Sinop"
+        },
+        {
+          "iso": "2026-09-15",
+          "descricao": "Aniversário do Município",
+          "comarca": "Barra do Garças"
+        },
+        {
+          "iso": "2026-09-18",
+          "descricao": "Aniversário do Município",
+          "comarca": "Diamantino"
+        },
+        {
+          "iso": "2026-09-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2026-09-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Jauru"
+        },
+        {
+          "iso": "2026-09-24",
+          "descricao": "Nossa Senhora da Libertação (Padroeira)",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2026-09-25",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Novo São Joaquim"
+        },
+        {
+          "iso": "2026-10-04",
+          "descricao": "São Francisco de Assis (Padroeiro)",
+          "comarca": "Aripuanã"
+        },
+        {
+          "iso": "2026-10-04",
+          "descricao": "Santo Francisco de Assis (Padroeiro)",
+          "comarca": "Jaciara"
+        },
+        {
+          "iso": "2026-10-06",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cáceres"
+        },
+        {
+          "iso": "2026-10-07",
+          "descricao": "Nossa Senhora do Rosário (Padroeira)",
+          "comarca": "Guarantã do Norte"
+        },
+        {
+          "iso": "2026-10-07",
+          "descricao": "Nossa Senhora do Rosário",
+          "comarca": "Poconé"
+        },
+        {
+          "iso": "2026-10-07",
+          "descricao": "Nossa Senhora do Rosário (Padroeira)",
+          "comarca": "Rosário Oeste"
+        },
+        {
+          "iso": "2026-10-12",
+          "descricao": "Nossa Senhora Aparecida (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Água Boa"
+        },
+        {
+          "iso": "2026-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Nova Ubiratã"
+        },
+        {
+          "iso": "2026-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2026-10-12",
+          "descricao": "Nossa Senhora Aparecida (Padroeira)",
+          "comarca": "Terra Nova do Norte"
+        },
+        {
+          "iso": "2026-10-21",
+          "descricao": "Aniversário do Município",
+          "comarca": "Jaciara"
+        },
+        {
+          "iso": "2026-10-26",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alto Araguaia"
+        },
+        {
+          "iso": "2026-10-26",
+          "descricao": "Aniversário do Município",
+          "comarca": "Poxoréu"
+        },
+        {
+          "iso": "2026-10-28",
+          "descricao": "Dia do Servidor Público (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-10-28",
+          "descricao": "Aniversário do Município",
+          "comarca": "Mirassol D'Oeste"
+        },
+        {
+          "iso": "2026-10-28",
+          "descricao": "São Judas Tadeu (Padroeiro)",
+          "comarca": "Vera"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Alto Garças"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Aripuanã"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Colniza"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia da Reforma Protestante",
+          "comarca": "Cotriguaçu"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Juína"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Marcelândia"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2026-10-31",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Sapezal"
+        },
+        {
+          "iso": "2026-11-01",
+          "descricao": "Fundação do Município",
+          "comarca": "Campinápolis"
+        },
+        {
+          "iso": "2026-11-02",
+          "descricao": "Dia de Finados (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-11-11",
+          "descricao": "Aniversário do Município",
+          "comarca": "Porto dos Gaúchos"
+        },
+        {
+          "iso": "2026-11-15",
+          "descricao": "Proclamação da República (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-11-17",
+          "descricao": "Aniversário do Município",
+          "comarca": "Feliz Natal"
+        },
+        {
+          "iso": "2026-11-20",
+          "descricao": "Dia da Consciência Negra (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-11-20",
+          "descricao": "Dia da Consciência Negra (já é feriado nacional)",
+          "comarca": "Cuiabá"
+        },
+        {
+          "iso": "2026-11-22",
+          "descricao": "Santa Cecília (Padroeira)",
+          "comarca": "Apiacás"
+        },
+        {
+          "iso": "2026-11-26",
+          "descricao": "Aniversário do Município",
+          "comarca": "Colniza"
+        },
+        {
+          "iso": "2026-11-27",
+          "descricao": "Nossa Senhora das Graças (Padroeira)",
+          "comarca": "Nova Xavantina"
+        },
+        {
+          "iso": "2026-11-30",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Peixoto de Azevedo"
+        },
+        {
+          "iso": "2026-11-30",
+          "descricao": "Dia do Cristão Evangélico",
+          "comarca": "Rio Branco"
+        },
+        {
+          "iso": "2026-12-01",
+          "descricao": "Aniversário do Município",
+          "comarca": "Itiquira"
+        },
+        {
+          "iso": "2026-12-03",
+          "descricao": "São Francisco Xavier (Padroeiro)",
+          "comarca": "Paranatinga"
+        },
+        {
+          "iso": "2026-12-07",
+          "descricao": "Dia da Justiça — Decreto-Lei 8.292/1945 (feriado forense)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-12-08",
+          "descricao": "Dia da Justiça — Decreto-Lei 8.292/1945 (feriado forense)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-12-08",
+          "descricao": "Imaculada Conceição (Padroeira)",
+          "comarca": "Diamantino"
+        },
+        {
+          "iso": "2026-12-08",
+          "descricao": "Nossa Senhora Imaculada Conceição (Padroeira)",
+          "comarca": "Marcelândia"
+        },
+        {
+          "iso": "2026-12-08",
+          "descricao": "Nossa Senhora da Conceição (Padroeira)",
+          "comarca": "Poconé"
+        },
+        {
+          "iso": "2026-12-08",
+          "descricao": "Nossa Senhora Imaculada Conceição (Padroeira)",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2026-12-08",
+          "descricao": "Imaculada Conceição (Padroeira)",
+          "comarca": "Cuiabá"
+        },
+        {
+          "iso": "2026-12-10",
+          "descricao": "Aniversário do Município",
+          "comarca": "Alto Garças"
+        },
+        {
+          "iso": "2026-12-10",
+          "descricao": "Aniversário do Município",
+          "comarca": "Juscimeira"
+        },
+        {
+          "iso": "2026-12-10",
+          "descricao": "Aniversário do Município",
+          "comarca": "Rondonópolis"
+        },
+        {
+          "iso": "2026-12-11",
+          "descricao": "Dia do Evangélico",
+          "comarca": "Porto Alegre do Norte"
+        },
+        {
+          "iso": "2026-12-14",
+          "descricao": "Aniversário do Município",
+          "comarca": "Juara"
+        },
+        {
+          "iso": "2026-12-14",
+          "descricao": "Emancipação Política",
+          "comarca": "São José dos Quatro Marcos"
+        },
+        {
+          "iso": "2026-12-17",
+          "descricao": "Aniversário do Município",
+          "comarca": "Paranatinga"
+        },
+        {
+          "iso": "2026-12-18",
+          "descricao": "Aniversário do Município",
+          "comarca": "Colíder"
+        },
+        {
+          "iso": "2026-12-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Nova Ubiratã"
+        },
+        {
+          "iso": "2026-12-19",
+          "descricao": "Aniversário do Município",
+          "comarca": "Querência"
+        },
+        {
+          "iso": "2026-12-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Cotriguaçu"
+        },
+        {
+          "iso": "2026-12-20",
+          "descricao": "Aniversário do Município",
+          "comarca": "Tabaporã"
+        },
+        {
+          "iso": "2026-12-24",
+          "descricao": "Natal (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-12-25",
+          "descricao": "Natal (feriado nacional)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-12-31",
+          "descricao": "Ano Novo (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-12-31",
+          "descricao": "Aniversário do Município",
+          "comarca": "Aripuanã"
+        }
+      ],
+      "dataPortaria": "2025-12-05",
+      "ehCalendarioAnual": true,
+      "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/Portaria_1915-2025-PRES_-_Calend%C3%A1rio_Forense_2026.pdf"
+    },
+    {
+      "id": "bp_mr7pjf51_uingj",
+      "tribunal": "TJMT",
+      "ano": 2026,
+      "comarca": "",
+      "numero": "752/2026-PRES",
+      "observacao": "Dispõe sobre o horário especial de expediente no âmbito do Poder Judiciário do Estado de Mato Grosso nos dias em que houver jogos da Seleção Brasileira de Futebol na Copa do Mundo FIFA de 2026, enquanto perdurar sua participação na competição.",
+      "datas": [
+        {
+          "iso": "2026-06-13",
+          "descricao": "Expediente especial (8h às 15h) — Copa do Mundo: Brasil x Marrocos (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-06-19",
+          "descricao": "Expediente especial (8h às 15h) — Copa do Mundo: Brasil x Haiti (ponto facultativo)",
+          "comarca": null
+        },
+        {
+          "iso": "2026-06-24",
+          "descricao": "Expediente especial (8h às 15h) — Copa do Mundo: Escócia x Brasil (ponto facultativo)",
+          "comarca": null
+        }
+      ],
+      "dataPortaria": "2026-05-27",
+      "ehCalendarioAnual": false,
+      "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/752_2026-PRES_-_Expediente_Copa_do_Mundo_(1).pdf"
+    }
+  ],
+  "realocacoes": [
+    {
+      "isoAntigo": "2025-07-09",
+      "isoNovo": "2025-07-07",
+      "descricaoOriginal": "Aniversário do Município",
+      "portariaOriginal": "1428/2024-PRES",
+      "portariaAlteracao": "988/2025-PRES",
+      "tribunal": "TJMT",
+      "comarca": "Água Boa"
+    },
+    {
+      "isoAntigo": "2025-07-14",
+      "isoNovo": "2025-07-21",
+      "descricaoOriginal": "Dia da Dança do Congo (Lei n. 896/2010) — institui a segunda-feira da segunda quinzena de julho como feriado no Município",
+      "portariaOriginal": "1428/2024-PRES",
+      "portariaAlteracao": "988/2025-PRES",
+      "tribunal": "TJMT",
+      "comarca": "Vila Bela da Santíssima Trindade"
+    },
+    {
+      "isoAntigo": "2025-07-15",
+      "isoNovo": "2025-07-22",
+      "descricaoOriginal": "Dia da Dança do Congo — a Lei n. 897/2010 estende o feriado até às 12h deste dia; após às 12h, ponto facultativo",
+      "portariaOriginal": "1428/2024-PRES",
+      "portariaAlteracao": "988/2025-PRES",
+      "tribunal": "TJMT",
+      "comarca": "Vila Bela da Santíssima Trindade"
+    },
+    {
+      "isoAntigo": "2025-12-05",
+      "isoNovo": "2025-12-12",
+      "descricaoOriginal": "Dia dos Evangélicos",
+      "portariaOriginal": "1428/2024-PRES",
+      "portariaAlteracao": "1845/2025-PRES",
+      "tribunal": "TJMT",
+      "comarca": "Porto Alegre do Norte"
+    }
+  ]
+}
