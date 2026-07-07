@@ -1,6 +1,6 @@
 {
   "origem": "Calculadora de Prazos Processuais — Central de Portarias",
-  "exportadoEm": "2026-07-05T00:57:04.267Z",
+  "exportadoEm": "2026-07-05T11:28:12.901Z",
   "suspensoes": [
     {
       "iso": "2025-01-01",
@@ -3357,7 +3357,7 @@
   ],
   "basePortarias": [
     {
-      "id": "bp_mr72zrie_6mixm",
+      "id": "bp_mr7pjf4v_eimj1",
       "tribunal": "TJMT",
       "ano": 2025,
       "comarca": "",
@@ -4413,7 +4413,7 @@
       "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/1428_-feriados_2025.pdf"
     },
     {
-      "id": "bp_mr72zrig_mcye1",
+      "id": "bp_mr7pjf4x_m9b69",
       "tribunal": "TJMT",
       "ano": 2025,
       "comarca": "",
@@ -4441,7 +4441,7 @@
       "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/988_2025-PRES.pdf"
     },
     {
-      "id": "bp_mr72zrig_461c8",
+      "id": "bp_mr7pjf4x_cwdsj",
       "tribunal": "TJMT",
       "ano": 2025,
       "comarca": "",
@@ -4459,7 +4459,7 @@
       "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/Portaria_1536_-_02_de_Outubro_de_2025_(1).pdf"
     },
     {
-      "id": "bp_mr72zrig_xnx96",
+      "id": "bp_mr7pjf4x_8wvn8",
       "tribunal": "TJMT",
       "ano": 2025,
       "comarca": "Porto Alegre do Norte",
@@ -4477,7 +4477,7 @@
       "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/PdfViewer.pdf"
     },
     {
-      "id": "bp_mr72zrih_peee9",
+      "id": "bp_mr7pjf4y_yw9pg",
       "tribunal": "TJMT",
       "ano": 2026,
       "comarca": "",
@@ -5530,7 +5530,7 @@
       "linkOficial": "https://cms.tjmt.jus.br/Download.aspx?arquivo=/intranet.arq/cms/grupopaginas/100/820/Portaria_1915-2025-PRES_-_Calend%C3%A1rio_Forense_2026.pdf"
     },
     {
-      "id": "bp_mr72zrij_i65sk",
+      "id": "bp_mr7pjf51_uingj",
       "tribunal": "TJMT",
       "ano": 2026,
       "comarca": "",
